@@ -17,7 +17,8 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Frontend  
+### 💻 Frontend  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ea0078cf-3cb7-43d2-b798-cd6735880c33" />
+
 - HTML5, CSS3, JavaScript  
 - React  
 - Tailwind CSS  
