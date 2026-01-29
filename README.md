@@ -18,18 +18,29 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-- HTML, CSS, JavaScript  
+- HTML5, CSS3, JavaScript  
 - React  
 - Tailwind CSS  
 
 ### 🗄️ Backend & Database  
-- SQL  
-- MySQL  
+- PL/SQL  
+- MySQL
+- MongoDB
+- Node.js
 
 ### 📚 Currently Learning  
 - Python  
 - Machine Learning  
-- Data Analytics  
+- Data Analytics
+- Data Structure & Algorithms
+
+  
+### 📚 Computer Fundamentals
+- DBMS
+- OOPs
+- Networking 
+- Cloud Computing
+
 
 ---
 
@@ -38,9 +49,8 @@
 🔹 **JustiSync** – JavaScript-based web project  
 🔹 **To-Do List App** – Task management using JavaScript  
 🔹 **Lawyer / Judge Dashboard** – React-based UI  
-🔹 **Kids Stories YouTube Automation**  
-🔹 **Data Analytics Course Website**  
-🔹 **DBMS & SQL Projects**  
+🔹 **DBMS & SQL Projects** 
+
 
 _(More exciting projects coming soon 🚀)_  
 
@@ -49,7 +59,7 @@ _(More exciting projects coming soon 🚀)_
 ## 🌱 Open Source & Collaboration  
 
 - Contributor to **PictoPy** (Privacy-first desktop image gallery)  
-- Participated in **GSoC** & **Hacktoberfest** communities  
+-  Contributor to DSCWoC
 
 ---
 
