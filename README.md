@@ -18,10 +18,12 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ea0078cf-3cb7-43d2-b798-cd6735880c33" />
+<img width="960" height="1356" alt="image" src="https://github.com/user-attachments/assets/89c3ffb3-c4e3-438a-82d2-408e15d9dd6d" />
+<img width="287" height="175" alt="image" src="https://github.com/user-attachments/assets/411ca7c2-227b-440d-a311-e01cd1f1f772" />
+<img width="238" height="212" alt="image" src="https://github.com/user-attachments/assets/f99260ef-3231-47ee-86cb-79a28d9773dd" />
+<img width="2360" height="2660" alt="image" src="https://github.com/user-attachments/assets/55e386a9-3a4d-4822-8353-5c6a60bdb235" />
 
-- HTML5, CSS3, JavaScript  
-- React  
-- Tailwind CSS  
+
 
 ### 🗄️ Backend & Database  
 - PL/SQL  
