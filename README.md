@@ -59,17 +59,15 @@
 
 🔹 **JustiSync** – JavaScript-based web project  
 🔹 **To-Do List App** – Task management using JavaScript  
-🔹 **Lawyer / Judge Dashboard** – React-based UI  
-🔹 **DBMS & SQL Projects** 
+🔹 **Cattle Disease Detection** – To detects the diseases in cattles
+🔹 **CTRL + LOL** - Event Website 
 
 
 _(More exciting projects coming soon 🚀)_  
 
 ---
 
-## 🌱 Open Source & Collaboration  
-
-- Contributor to **PictoPy** (Privacy-first desktop image gallery)  
+## 🌱 Open Source & Collaboration   
 -  Contributor to DSCWoC
 
 ---
