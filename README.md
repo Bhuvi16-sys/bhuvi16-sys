@@ -72,7 +72,8 @@ _(More exciting projects coming soon 🚀)_
 
 - 💼 LinkedIn: [Bhuvi Jain](https://www.linkedin.com/in/bhuvi-jain-370733306)  
 - 📧 Email: **jainbhuvi7@gmail.com**  
-
+## 📊 LeetCode Stats
+![Bhuvi's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=bhuvi_1604&theme=dark)
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
