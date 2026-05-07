@@ -76,7 +76,7 @@ _(More exciting projects coming soon 🚀)_
 
 - 💼 LinkedIn: [Bhuvi Jain](https://www.linkedin.com/in/bhuvi-jain-370733306)  
 - 📧 Email: **jainbhuvi7@gmail.com**  
-
+- 🔗 Website: https://bhuvijainportfolio.netlify.app/
 ## 📊 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Syne%20Mono&ext=activity" alt="LeetCode Stats" />
 ---
