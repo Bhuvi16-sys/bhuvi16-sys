@@ -40,24 +40,20 @@
 
 ## 📊 GitHub & Coding Activity
 
----
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&bg_color=161b22&title_color=ff1493&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&bg_color=161b22&title_color=ff1493&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="Bhuvi's GitHub Stats" width="48%" />
 
-## 📈 GitHub Analytics & Stats
-
----
-
-## 📈 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bhuvi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhuvi16-sys&theme=tokyonight&hide_border=true" alt="Coding Time Stats" width="97%" />
-</p>
+  <br><br>
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=Bhuvi16-sys&background=161b22&stroke=00000000&ring=ff1493&fire=ff1493&currStreakNum=ffd700&sideNums=ff1493&currStreakLabel=ffd700&sideLabels=ff1493&dates=ffffff&hide_border=true" alt="Bhuvi's GitHub Streak" width="48%" />
+  
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=tokyonight&font=Syne%20Mono&ext=activity" alt="LeetCode Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Syne%20Mono&ext=activity" alt="LeetCode Stats" width="48%"/>
 </div>
 
 ---
