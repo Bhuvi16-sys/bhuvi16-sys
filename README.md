@@ -38,11 +38,17 @@
 
 ---
 
-## 📊 GitHub & Coding Activity
+---
+
+## 📈 GitHub Analytics & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bhuvi's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhuvi16-sys&theme=tokyonight&hide_border=true" alt="Coding Time Stats" width="97%" />
 </p>
 
 
