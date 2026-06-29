@@ -50,7 +50,7 @@ currently   : Building scalable web apps + AI-powered data pipelines
 |:--:|:------------|:------:|
 | 🎯 | **60 Days of Code / POTD Challenge** | ✅ Completed |
 | 🚀 | **Consistent Problem Solving Streak** | 🔄 Active |
-| 🛠️ | **Hack4Delhi Hackathon** | 👨‍💻 Team Lead |
+| 🛠️ | **Stats-O-Locked** | 👨‍💻 Tech Lead |
 | 🧠 | **AI Catalyst Hackathon** | 👨‍💻 Team Lead |
 | 🌍 | **DSCWoC Open Source Contribution** | ✅ Contributor |
 
