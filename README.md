@@ -165,17 +165,13 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 *"Code is not just syntax — it's a craft. Build with intention."*
 
-<p>
-  <a href="https://bhuvijainportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/💼%20Hire%20Me-7c3aed?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <a href="https://bhuvijainportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:jainbhuvi7@gmail.com">
-    <img src="https://img.shields.io/badge/📬%20Let's%20Connect-4f46e5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/📬_Let's_Connect-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-</p>
