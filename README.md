@@ -33,7 +33,7 @@
 ```yaml
 name        : Bhuvi Jain
 role        : Data Analyst Intern · Full Stack Developer · AI Enthusiast
-university  : VIT Bhopal University — B.Tech Computer Science (2nd Year)
+university  : VIT Bhopal University — B.Tech Computer Science (3rd Year)
 focus       : [ "MERN Stack", "Next.js", "Predictive Modeling", "UI/UX Design" ]
 leadership  : [ "Stats-O-Locked Club — Tech Lead", "AI Catalyst Hackathon — Team Lead" ]
 open_source : [ "DSCWoC Contributor", "Active Repository Graph" ]
