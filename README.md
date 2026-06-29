@@ -149,7 +149,7 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 </div>
 
-> **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+
 
 
 ---
