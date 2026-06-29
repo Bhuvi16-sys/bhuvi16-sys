@@ -40,17 +40,18 @@
 
 ## 📊 GitHub & Coding Activity
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" width="48%" />
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="Bhuvi's GitHub Stats" width="48%" />
+---
 
-  <br><br>
-  
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=Bhuvi16-sys&theme=tokyonight&hide_border=true&fire=ff9e64&ring=7aa2f7" alt="Bhuvi's GitHub Streak" width="48%" />
+## 📈 GitHub Analytics & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bhuvi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvi16-sys&theme=tokyonight&hide_border=true" alt="Bhuvi's GitHub Streak" width="97%" />
+</p>
   
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=tokyonight&font=Syne%20Mono&ext=activity" alt="LeetCode Stats" width="48%"/>
