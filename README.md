@@ -35,7 +35,7 @@ name        : Bhuvi Jain
 role        : Data Analyst Intern · Full Stack Developer · AI Enthusiast
 university  : VIT Bhopal University — B.Tech Computer Science (2nd Year)
 focus       : [ "MERN Stack", "Next.js", "Predictive Modeling", "UI/UX Design" ]
-leadership  : [ "Hack4Delhi — Team Lead", "AI Catalyst Hackathon — Team Lead" ]
+leadership  : [ "Stats-O-Locked — Tech Lead", "AI Catalyst Hackathon — Team Lead" ]
 open_source : [ "DSCWoC Contributor", "Active Repository Graph" ]
 currently   : Building scalable web apps + AI-powered data pipelines
 ```
