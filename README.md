@@ -60,13 +60,7 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_radius=12" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&hide=html,css&border_radius=12" alt="Top Languages" width="49%" />
-
-</div>
 
 <div align="center">
 
