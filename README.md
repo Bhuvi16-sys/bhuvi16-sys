@@ -41,7 +41,26 @@ currently   : Building scalable web apps + AI-powered data pipelines
 ```
 
 ---
+---
 
+## 📊 Git Analytics & Achievements
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI+pipelines...;Crafting+luxury+MERN+%26+Next.js+apps...;Code+is+a+craft.+Build+with+intention." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&text_color=9ece6a&bg_color=1a1b26&title_color=7aa2f7" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bhuvi16-sys&theme=tokyonight&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
 ## 🏆 Achievements
 
 <div align="center">
