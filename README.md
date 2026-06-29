@@ -35,7 +35,7 @@ name        : Bhuvi Jain
 role        : Data Analyst Intern · Full Stack Developer · AI Enthusiast
 university  : VIT Bhopal University — B.Tech Computer Science (2nd Year)
 focus       : [ "MERN Stack", "Next.js", "Predictive Modeling", "UI/UX Design" ]
-leadership  : [ "Stats-O-Locked — Tech Lead", "AI Catalyst Hackathon — Team Lead" ]
+leadership  : [ "Stats-O-Locked Club — Tech Lead", "AI Catalyst Hackathon — Team Lead" ]
 open_source : [ "DSCWoC Contributor", "Active Repository Graph" ]
 currently   : Building scalable web apps + AI-powered data pipelines
 ```
@@ -50,9 +50,8 @@ currently   : Building scalable web apps + AI-powered data pipelines
 |:--:|:------------|:------:|
 | 🎯 | **60 Days of Code / POTD Challenge** | ✅ Completed |
 | 🚀 | **Consistent Problem Solving Streak** | 🔄 Active |
-| 🛠️ | **Stats-O-Locked** | 👨‍💻 Tech Lead |
 | 🧠 | **AI Catalyst Hackathon** | 👨‍💻 Team Lead |
-| 🌍 | **DSCWoC Open Source Contribution** | ✅ Contributor |
+| 🌍 | **DSCWoC , GSSOC Open Source Contribution** | ✅ Contributor |
 
 </div>
 
@@ -60,7 +59,13 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 ## 📊 GitHub Analytics
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_radius=12" alt="GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&hide=html,css&border_radius=12" alt="Top Languages" width="49%" />
+
+</div>
 
 <div align="center">
 
@@ -144,8 +149,8 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 </div>
 
+> **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
 
- ```
 
 ---
 
@@ -165,13 +170,17 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 *"Code is not just syntax — it's a craft. Build with intention."*
 
-<p align="center">
-  <a href="https://bhuvijainportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Hire_Me-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<p>
+  <a href="https://bhuvijainportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/💼%20Hire%20Me-7c3aed?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:jainbhuvi7@gmail.com">
-    <img src="https://img.shields.io/badge/📬_Let's_Connect-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📬%20Let's%20Connect-4f46e5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+</p>
