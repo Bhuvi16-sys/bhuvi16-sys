@@ -39,13 +39,12 @@
 ---
 
 ## 📊 GitHub & Coding Activity
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&bg_color=161b22&title_color=ff1493&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&bg_color=161b22&title_color=ff1493&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="Bhuvi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
 
   <br><br>
   
