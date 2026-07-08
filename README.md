@@ -67,7 +67,16 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Bhuvi16-sys&theme=tokyonight&hide_border=true&background=0d1117&stroke=00000000&ring=a78bfa&fire=7c3aed&currStreakNum=e2e8f0&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=94a3b8&border_radius=12" alt="GitHub Streak" width="49%" />
+## 📊 GitHub Analytics 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bhuvi16-sys&theme=tokyonight&hide_border=true&background=0d1117&stroke=00000000&ring=a78bfa&fire=7c3aed&currStreakNum=e2e8f0&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=94a3b8&border_radius=12" alt="GitHub Streak" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Fira+Code&ext=activity&border=0&border_radius=12" alt="LeetCode Stats" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvi16-sys&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&hide_border=true&border_radius=12" width="98%" alt="Activity Graph" />
+</div>
 
 <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Fira+Code&ext=activity&border=0&border_radius=12" alt="LeetCode Stats" width="49%" />
 
