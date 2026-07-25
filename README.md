@@ -127,19 +127,7 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 ---
 
-## 🌐 Live Contribution Map
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhuvi16-sys&theme=tokyonight" width="98%" />
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuvi16-sys&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhuvi16-sys&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhuvi16-sys&theme=tokyonight&utcOffset=5.5" width="32%" />
-
-</div>
 
 ---
 
