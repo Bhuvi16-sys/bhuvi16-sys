@@ -61,24 +61,16 @@ currently   : Building scalable web apps + AI-powered data pipelines
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvi16-sys&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
+  
+  <br /><br />
 
-## 📊 GitHub Analytics 
-
-
-
-
-
-<img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Fira+Code&ext=activity&border=0&border_radius=12" alt="LeetCode Stats" width="49%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvi16-sys&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&hide_border=true&border_radius=12" width="98%" alt="Activity Graph" />
+  <img src="https://leetcard.jacoblin.cool/bhuvi_1604?theme=dark&font=Fira+Code&ext=activity&border=0&border_radius=12" alt="LeetCode Stats" width="49%" />
 </div>
 
 ---
