@@ -148,7 +148,8 @@ ML (sklearn / TF)    ████████████░░░░░░░�
 
 Contribution snake
 <div align="center"> <img src="https://raw.githubusercontent.com/Bhuvi16-sys/Bhuvi16-sys/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" /> </div> <br/>
-# Let's talk
+
+# **Let's talk**
 
 <div align="center">
 
