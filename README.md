@@ -145,7 +145,10 @@ ML (sklearn / TF)    ████████████░░░░░░░�
 | **Contribution style** | Consistent — active DSA + POTD streak |
 
 <br/>
-
+Streak & activity
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Bhuvi16-sys&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" /> </div> <br/>
+Contribution snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Bhuvi16-sys/Bhuvi16-sys/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" /> </div> <br/>
 # Let's talk
 
 <div align="center">
