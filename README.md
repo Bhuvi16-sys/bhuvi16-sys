@@ -1,82 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Bhuvi%20Jain&fontSize=48&fontColor=A78BFA&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=62&descSize=16&descColor=E5E7EB" width="100%" />
-</p>
-
 <div align="center">
 
-<a href="https://bhuvijainportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=flat-square&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/bhuvi-jain-370733306"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jainbhuvi7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/bhuvi_1604"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+```
+██████╗ ██╗  ██╗██╗   ██╗██╗   ██╗██╗
+██╔══██╗██║  ██║██║   ██║██║   ██║██║
+██████╔╝███████║██║   ██║██║   ██║██║
+██╔══██╗██╔══██║██║   ██║╚██╗ ██╔╝██║
+██████╔╝██║  ██║╚██████╔╝ ╚████╔╝ ██║
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝
+        J  A  I  N
+```
+
+### Full-Stack Developer · AI & Data Enthusiast · Builder of Things That Ship
+
+`Data Analyst Intern`&nbsp;&nbsp;·&nbsp;&nbsp;`MERN + Next.js`&nbsp;&nbsp;·&nbsp;&nbsp;`VIT Bhopal — CSE '27`
+
+[Portfolio](https://bhuvijainportfolio.netlify.app/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/bhuvi-jain-370733306) &nbsp;|&nbsp; [Email](mailto:jainbhuvi7@gmail.com) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/bhuvi_1604)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## ⟡ 30-Second Pitch
 
-I'm a **B.Tech Computer Science** student at **VIT Bhopal University**, currently working as a **Data Analyst Intern** while building full-stack web apps and AI-powered data pipelines on the side. I like turning messy data and rough ideas into products that actually work — clean UI on the front, solid logic underneath.
-
-```text
-🎓  VIT Bhopal University — CSE, 3rd Year
-🧭  Focus     → MERN Stack · Next.js · Predictive Modeling · UI/UX
-🧑‍💻  Leading   → Stats-O-Locked Club (Tech Lead) · AI Catalyst Hackathon (Team Lead)
-🌍  OSS       → DSCWoC & GSSOC Contributor
-🚀  Building  → Scalable web apps + AI-driven data pipelines
-```
+> I build full-stack products end-to-end — React/Next.js on the front, Node/Express + MongoDB or PostgreSQL underneath — and I bring an analyst's instinct for data to every project. Currently a Data Analyst Intern, Tech Lead of Stats-O-Locked, and Team Lead for the AI Catalyst Hackathon. I ship, I don't just prototype.
 
 <br/>
 
-## 🏆 Milestones
+## ⟡ Snapshot
 
-| | Achievement | Status |
-|---|---|---|
-| 🎯 | 60 Days of Code / POTD Challenge | Completed |
-| 🔄 | Consistent DSA problem-solving streak | Ongoing |
-| 🧠 | AI Catalyst Hackathon | Team Lead |
-| 🌍 | DSCWoC & GSSOC Open Source | Contributor |
-
-<br/>
-
-## 🧰 Toolkit
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-
-**Backend & Data**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+**Currently**
+- 🎓 3rd Year, B.Tech CSE — VIT Bhopal University
+- 💼 Data Analyst Intern
+- 🧩 Tech Lead — Stats-O-Locked Club
+- 🚩 Team Lead — AI Catalyst Hackathon
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**AI / Analytics**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-
-**DevOps & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+**Track Record**
+- ✅ 60 Days of Code / POTD — completed
+- 🔁 Active daily DSA problem-solving streak
+- 🌍 Open-source contributor — DSCWoC & GSSOC
+- 🚀 Multiple full-stack apps shipped solo
 
 </td>
 </tr>
@@ -84,48 +53,117 @@ I'm a **B.Tech Computer Science** student at **VIT Bhopal University**, currentl
 
 <br/>
 
-## 📊 GitHub Stats
+## ⟡ Stack Proficiency
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhuvi16-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi16-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</p>
+```
+Frontend
+React            ████████████████████░░  90%
+Next.js          ██████████████████░░░░  80%
+TypeScript       ████████████████░░░░░░  70%
+Tailwind CSS     ████████████████████░░  90%
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvi16-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA" />
-</p>
+Backend
+Node.js          ██████████████████░░░░  80%
+Express.js       ██████████████████░░░░  80%
+MongoDB          ████████████████░░░░░░  70%
+PostgreSQL       ██████████████░░░░░░░░  60%
 
-<br/>
+AI / Data
+Python           ██████████████████░░░░  80%
+Pandas / NumPy   ████████████████░░░░░░  70%
+Scikit-learn     ██████████████░░░░░░░░  60%
+TensorFlow       ████████████░░░░░░░░░░  50%
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhuvi16-sys/Bhuvi16-sys/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<br/>
-
-## 📡 Reach
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Bhuvi16-sys&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Bhuvi16-sys?style=flat-square&color=7c3aed&logo=github&label=Followers)](https://github.com/Bhuvi16-sys)
-[![GitHub stars](https://img.shields.io/github/stars/Bhuvi16-sys?style=flat-square&color=a78bfa&logo=github&label=Stars)](https://github.com/Bhuvi16-sys)
-
-</div>
+Tools
+Git / GitHub     ████████████████████░░  90%
+Docker           ██████████████░░░░░░░░  60%
+```
 
 <br/>
 
+## ⟡ Featured Work
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🔹 Project One**
+
+One-line summary of what it does and the problem it solves.
+
+`React` `Node.js` `MongoDB`
+
+[View Repo →](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🔹 Project Two**
+
+One-line summary of what it does and the problem it solves.
+
+`Next.js` `PostgreSQL` `Prisma`
+
+[View Repo →](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🔹 Project Three**
+
+One-line summary of what it does and the problem it solves.
+
+`Python` `Pandas` `Scikit-learn`
+
+[View Repo →](#)
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Swap in your 3 strongest repos here — recruiters click projects before anything else.</sub>
+
+<br/>
+
+## ⟡ Full Toolkit
+
+<table width="100%">
+<tr><td><b>Languages</b></td><td>JavaScript · TypeScript · Python · SQL</td></tr>
+<tr><td><b>Frontend</b></td><td>React · Next.js · Tailwind CSS · Framer Motion</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · Express.js · Prisma · Redis</td></tr>
+<tr><td><b>Database</b></td><td>MongoDB · PostgreSQL</td></tr>
+<tr><td><b>AI / Data</b></td><td>Pandas · NumPy · Scikit-learn · TensorFlow · Jupyter</td></tr>
+<tr><td><b>DevOps</b></td><td>Git · Docker · Vercel · Netlify · AWS · Postman</td></tr>
+</table>
+
+<br/>
+
+## ⟡ Timeline
+
+```
+2023 ─┬─ Started B.Tech CSE @ VIT Bhopal University
+      │
+2024 ─┼─ Joined Stats-O-Locked Club as Tech Lead
+      ├─ Began open-source contributions (DSCWoC, GSSOC)
+      │
+2025 ─┼─ Led team through AI Catalyst Hackathon
+      ├─ Completed 60 Days of Code / POTD Challenge
+      ├─ Started Data Analyst Internship
+      │
+2026 ─┴─ Building full-stack + AI-powered products, open to new roles
+```
+
+<br/>
+
+## ⟡ Let's Talk
+
 <div align="center">
 
-*"Code is not just syntax — it's a craft. Build with intention."*
+I'm open to **internships, freelance work, and collaborative projects.**
+If you're a recruiter — my portfolio has live demos and a downloadable resume.
 
-<a href="https://bhuvijainportfolio.netlify.app/"><img src="https://img.shields.io/badge/💼%20Hire%20Me-7c3aed?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:jainbhuvi7@gmail.com"><img src="https://img.shields.io/badge/📬%20Let's%20Connect-4f46e5?style=for-the-badge&logoColor=white" /></a>
+**[→ bhuvijainportfolio.netlify.app](https://bhuvijainportfolio.netlify.app/)**  &nbsp;|&nbsp;  **[→ jainbhuvi7@gmail.com](mailto:jainbhuvi7@gmail.com)**
+
+<sub>*"Code is not just syntax — it's a craft. Build with intention."*</sub>
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-</p>
